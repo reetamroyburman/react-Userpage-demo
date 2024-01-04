@@ -1,8 +1,8 @@
-
+import Signup from './Pages/Signup/Signup';
 function App() {
   return (
     <div>
-      user page
+     <Signup />
     </div>
   );
 }
